@@ -1,0 +1,9 @@
+myve/
+__pycache__/
+*.pyc
+airflow/
+.airflow/
+logs/
+data/raw/
+data/processed/
+db/

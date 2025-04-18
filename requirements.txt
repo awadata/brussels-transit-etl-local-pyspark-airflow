@@ -1,0 +1,6 @@
+pyspark
+pandas
+requests
+apache-airflow
+streamlit
+schedule
